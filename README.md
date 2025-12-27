@@ -161,8 +161,8 @@
   <h2>Contact Us</h2>
   <div class="contact">
     <form onsubmit="sendMessage(); return false;">
-      <input type="text" id="name" placeholder="Your Name" required />
-      <input type="email" id="email" placeholder="Your Email" required />
+      <input type="text" id="name" placeholder="PrimeTeck" required />
+      <input type="email" id="email" placeholder="sfisomkhonza505@gmail.com" required />
       <textarea id="message" rows="4" placeholder="Your Message" required></textarea>
       <button type="submit">Send Message</button>
     </form>
